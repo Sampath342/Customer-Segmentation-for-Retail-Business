@@ -10,8 +10,13 @@ The dataset includes:
 InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country.
 
 Key Steps
+
 Data Preprocessing: Cleaned data and calculated TotalPrice.
+
 RFM Calculation: Computed Recency, Frequency, and Monetary values.
+
 Customer Segmentation: Applied K-Means clustering.
+
 Visualization: Plots for RFM metrics and cluster analysis.
+
 Insights: Identified high-value customers and different segments.
